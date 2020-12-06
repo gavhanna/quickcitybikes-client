@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quickcitybikes.twa",
+      "sha256_cert_fingerprints": [
+        "E3:D3:8E:66:21:A6:8D:F8:CC:C3:25:05:50:76:A5:08:7B:9D:90:C6:97:03:A1:E2:B5:63:80:DB:24:31:20:C3",
+        "F4:93:7B:43:65:32:B7:63:FE:E5:45:F2:5B:61:FB:1D:75:7E:08:75:07:B0:90:0C:53:2E:17:F2:86:E3:2D:FC"
+      ]
+    }
+  }
+]
