@@ -3,4 +3,4 @@ export const apiUrl =
     ? 'http://localhost:5000'
     : 'https://quickcitybikes.com/api';
 
-export const appVersion = '1.2.2';
+export const appVersion = '1.2.3';
